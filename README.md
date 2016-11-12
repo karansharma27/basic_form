@@ -1,4 +1,4 @@
-# basic_form
+# Create a basic form and connect with database
 
 Build a basic registration form having basic fields like name, phone number, email, etc with proper validations.
 
